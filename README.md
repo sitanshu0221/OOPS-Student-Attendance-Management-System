@@ -87,9 +87,12 @@ mvn clean compile
 
 👨‍💻 Developer
 
-Viraj Garg
-
+VIRAJ GARG
 GitHub: @viraj-garg
+
+HARDIK DHIMAN
+GitHub: @hardikdhiman66
+
 
 📌 Project Information
 
