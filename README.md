@@ -23,31 +23,29 @@ A Java Swing-based Student Attendance Management System integrated with MySQL us
 * VS Code
 
 📁 Project Structure
-
+```
 Student-Attendance-Management-System/
 │
 ├── src/
 │   └── main/
 │       └── java/
-│           └── com/
-│               └── attendance/
-│                   ├── App.java
-│                   ├── Main.java
-│                   ├── DBConnection.java
-│                   ├── LoginFrame.java
-│                   ├── DashboardFrame.java
-│                   ├── StudentFrame.java
-│                   ├── FacultyFrame.java
-│                   ├── SubjectFrame.java
-│                   ├── AttendanceFrame.java
-│                   ├── ViewAttendanceFrame.java
-│                   └── ReportFrame.java
+│           └── com/attendance/
+│               ├── App.java
+│               ├── Main.java
+│               ├── DBConnection.java
+│               ├── LoginFrame.java
+│               ├── DashboardFrame.java
+│               ├── StudentFrame.java
+│               ├── FacultyFrame.java
+│               ├── SubjectFrame.java
+│               ├── AttendanceFrame.java
+│               ├── ViewAttendanceFrame.java
+│               └── ReportFrame.java
 │
 ├── lib/
-│   └── mysql-connector-j-26.10.0.jar
-│
 ├── pom.xml
 └── .gitignore
+```
 
 ⚙️ Requirements
 
