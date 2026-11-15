@@ -1,0 +1,19 @@
+# Compiled Java files
+*.class
+out/
+target/
+
+# Mac files
+.DS_Store
+
+# VS Code
+.vscode/
+
+# IDE files
+.idea/
+
+# Logs
+*.log
+
+# Environment variables
+.env
